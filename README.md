@@ -73,7 +73,7 @@ Book book = new PaperBook("123456", "Java Programming", 2020, 29.99, 100);
 inventory_Mangement inventory = new inventory_Mangement();
 inventory.adBook(book);
 ###output example
-### مثال على الإخراج
+
 ![Output Screenshot](image2.png)
 
 
