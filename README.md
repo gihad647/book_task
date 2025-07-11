@@ -65,9 +65,13 @@ The project is organized into two packages: `BookStore` and `Books`.
 
 
 ## Usage
-1. **Add a Book to Inventory**:
-   ```java
-  <pre> ```java Book book = new PaperBook("123456", "Java Programming", 2020, 29.99, 100); inventory_Mangement inventory = new inventory_Mangement(); inventory.adBook(book); ``` ![Console Output](image2.png) </pre>
+
+### 1. Add a Book to Inventory
+
+```java
+Book book = new PaperBook("123456", "Java Programming", 2020, 29.99, 100);
+inventory_Mangement inventory = new inventory_Mangement();
+inventory.adBook(book);
 
 
 
