@@ -70,6 +70,7 @@ The project is organized into two packages: `BookStore` and `Books`.
    inventory_Mangement inventory = new inventory_Mangement();
    inventory.adBook(book);
    ## Console Output Example
+   ![Console Output](image.png)
 
 
 
