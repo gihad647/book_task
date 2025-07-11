@@ -68,4 +68,8 @@ The project is organized into two packages: `BookStore` and `Books`.
    ```java
    Book book = new PaperBook("123456", "Java Programming", 2020, 29.99, 100);
    inventory_Mangement inventory = new inventory_Mangement();
-   inventory.adBook(book);  
+   inventory.adBook(book);
+   ## Console Output Example
+
+![Console Output](image.png)
+
