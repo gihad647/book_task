@@ -63,14 +63,14 @@ The project is organized into two packages: `BookStore` and `Books`.
 3. Ensure the project structure matches the provided `.iml` file (`Fawry_task2.iml`).
 4. Compile and run the project.
 
+
 ## Usage
 1. **Add a Book to Inventory**:
    ```java
    Book book = new PaperBook("123456", "Java Programming", 2020, 29.99, 100);
    inventory_Mangement inventory = new inventory_Mangement();
    inventory.adBook(book);
-   ## Console Output Example
-   ![Console Output](image.png)
+   ![Console Output 2](image2.png)
 
 
 
