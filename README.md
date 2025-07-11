@@ -71,6 +71,6 @@ The project is organized into two packages: `BookStore` and `Books`.
    inventory.adBook(book);
    ## Console Output Example
 
-![Console Output](image.png)
+
 
 
